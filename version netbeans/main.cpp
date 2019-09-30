@@ -230,7 +230,7 @@ void preorden(nodo *&arbolBinario)
 
         }
 }
-
+//comentario de prueba 
 void inorden(nodo *&arbolBinario)
 {
     
