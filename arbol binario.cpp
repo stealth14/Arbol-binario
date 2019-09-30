@@ -8,7 +8,7 @@
 
 #include <string>  //for std::string
 
-
+//segundo comentario de prueba
 using namespace std;
 int horizontal = 0;//Variable publica.
 struct nodo
